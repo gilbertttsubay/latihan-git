@@ -8,6 +8,7 @@ public class LatihanGitApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(LatihanGitApplication.class, args);
+        System.out.println("FGulbertg");
     }
 
 }
